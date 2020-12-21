@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Grant Phillips",
+        "url": "https://os.mbed.com/users/grantphillips/"
+    },
+    "description": "Class library for a LIS3DSH MEMS digital output motion sensor (acceleromoter).",
+    "examples": [
+        "https://os.mbed.com/users/programmer5/code/stm32f407/",
+        "https://os.mbed.com/teams/BITS-IOT-PGP/code/mbed_blinky/",
+        "https://os.mbed.com/users/suntopbd/code/STM32F407/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [],
+    "name": "LIS3DSH",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grantphillips/code/LIS3DSH/"
+    },
+    "version": "0.0.0-alpha+sha.e6a312714223"
+}
